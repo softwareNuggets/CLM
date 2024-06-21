@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "clm": {
+      "commandName": "Project",
+      "commandLineArgs": "3+2"
+    }
+  }
+}

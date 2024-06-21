@@ -1,0 +1,14 @@
+D:\YOUTUBE\C#\students\softwareNuggets\clm\bin\Debug\net8.0\clm.exe
+D:\YOUTUBE\C#\students\softwareNuggets\clm\bin\Debug\net8.0\clm.deps.json
+D:\YOUTUBE\C#\students\softwareNuggets\clm\bin\Debug\net8.0\clm.runtimeconfig.json
+D:\YOUTUBE\C#\students\softwareNuggets\clm\bin\Debug\net8.0\clm.dll
+D:\YOUTUBE\C#\students\softwareNuggets\clm\bin\Debug\net8.0\clm.pdb
+D:\YOUTUBE\C#\students\softwareNuggets\clm\obj\Debug\net8.0\clm.GeneratedMSBuildEditorConfig.editorconfig
+D:\YOUTUBE\C#\students\softwareNuggets\clm\obj\Debug\net8.0\clm.AssemblyInfoInputs.cache
+D:\YOUTUBE\C#\students\softwareNuggets\clm\obj\Debug\net8.0\clm.AssemblyInfo.cs
+D:\YOUTUBE\C#\students\softwareNuggets\clm\obj\Debug\net8.0\clm.csproj.CoreCompileInputs.cache
+D:\YOUTUBE\C#\students\softwareNuggets\clm\obj\Debug\net8.0\clm.dll
+D:\YOUTUBE\C#\students\softwareNuggets\clm\obj\Debug\net8.0\refint\clm.dll
+D:\YOUTUBE\C#\students\softwareNuggets\clm\obj\Debug\net8.0\clm.pdb
+D:\YOUTUBE\C#\students\softwareNuggets\clm\obj\Debug\net8.0\clm.genruntimeconfig.cache
+D:\YOUTUBE\C#\students\softwareNuggets\clm\obj\Debug\net8.0\ref\clm.dll

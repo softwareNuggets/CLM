@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "acuLUB3V/UPmoSfMn5wg5J1Kc44TcwZDbyJY2x0oyJkVN15wgc+byqr32DWjnbpYK7RRsgqqNeZC+hpLCwNciA==",
+  "success": true,
+  "projectFilePath": "D:\\YOUTUBE\\C#\\students\\softwareNuggets\\clm\\clm.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1803",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "You are running the 'restore' operation with an 'HTTP' source, 'http://nuget.stage1.streamlinedb.com/nuget'. Non-HTTPS access will be removed in a future version. Consider migrating to an 'HTTPS' source."
+    }
+  ]
+}
